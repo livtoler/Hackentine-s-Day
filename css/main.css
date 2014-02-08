@@ -1,0 +1,118 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 530px;
+  margin: 0 auto;
+  padding: 30px;
+  cursor: pointer;
+  border-radius: 4px;
+  position: absoulte;
+}
+
+.swatch {
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.hearts {
+  background: url("../images/hearts.jpg") repeat;
+}
+
+.hearts-gray {
+  background: url("../images/hearts-gray.jpg") repeat;
+}
+
+.love {
+  background: url("../images/love.png") repeat;
+}
+
+.pink-hearts {
+  background: url("../images/pink-hearts.jpg") repeat;
+}
+
+.zigZag {
+  background: url("../images/zigZag.png") repeat;
+}
+
+.purple-background{
+ background: #330C31;
+ -webkit-border-radius: 17px;
+ -moz-border-radius: 17px;
+ border-radius: 17px;
+}
+.fuschia-text{
+ color:#8D1152;
+}
+
+.red-text {
+  color: #CC0c00;
+}
+
+.white-text {
+  color: #FFF;
+}
+
+.white-background {
+  background: #FFF;
+  -webkit-border-radius: 17px;
+ -moz-border-radius: 17px;
+ border-radius: 17px;
+}
+
+.animation {
+  background: url("../images/animation.gif") no-repeat;
+  width: 475px;
+  height: 377px;
+}
+
+.dance {
+  background: url("../images/murrayDance.gif") no-repeat;
+  width: 475px;
+  height: 377px;
+}
+
+#santori {
+  background: url("../images/murraySantoriTime.gif") no-repeat;
+  height: 377px;
+}
+
+.drawHeart {
+  background: url("../images/murrayHeart.gif") no-repeat;
+  width: 475px;
+  height: 377px;
+}
+
+.nova-font {
+  font-family: 'Nova Mono', cursive;
+  font-size: 3.9em;
+  line-height: 1.2em;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.mono-font {
+  font-family: 'Monoton', cursive;
+  font-size: 3.5em;
+  line-height: .5em;
+}
+
+.cursive-font {
+  font-family: 'Cedarville Cursive', cursive;
+  position: relative;
+  margin: -40px -360px 0 0;
+    font-size: 1.7em;
+}
+
+.card{
+  width: 475px;
+  height: 377px;
+}
